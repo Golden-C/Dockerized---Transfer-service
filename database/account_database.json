@@ -1,0 +1,37 @@
+[
+ {
+  "accountNumber": 1234567893,
+  "balance": 11000,
+  "createdAt": "2021-08-14T23:59:44.088Z"
+ },
+ {
+  "accountNumber": 1234567894,
+  "balance": 19000,
+  "createdAt": "2021-08-15T00:00:01.697Z"
+ },
+ {
+  "accountNumber": 1234567890,
+  "balance": 20000,
+  "createdAt": "2021-08-15T00:22:46.628Z"
+ },
+ {
+  "accountNumber": 1234567897,
+  "balance": 12000,
+  "createdAt": "2021-08-15T00:53:48.218Z"
+ },
+ {
+  "accountNumber": 1234567898,
+  "balance": 12000,
+  "createdAt": "2021-08-15T01:10:45.721Z"
+ },
+ {
+  "accountNumber": 1234567888,
+  "balance": 12000,
+  "createdAt": "2021-08-15T01:15:06.219Z"
+ },
+ {
+  "accountNumber": 1234568888,
+  "balance": 12000,
+  "createdAt": "2021-08-15T01:36:38.867Z"
+ }
+]

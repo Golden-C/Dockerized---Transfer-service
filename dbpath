@@ -1,0 +1,12 @@
+[
+ {
+  "accountNumber": 1234567893,
+  "balance": 10000,
+  "createdAt": "2021-08-14T23:59:44.088Z"
+ },
+ {
+  "accountNumber": 1234567894,
+  "balance": 20000,
+  "createdAt": "2021-08-15T00:00:01.697Z"
+ }
+]
